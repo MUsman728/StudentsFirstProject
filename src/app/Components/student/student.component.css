@@ -1,0 +1,41 @@
+#reg
+{
+    font-family: 'Domine', serif;
+    
+}
+.container-fluid .container
+{
+    border:1px solid white;
+    background-color: white;
+    margin-top: 5%;
+    border-radius: 1rem;
+}
+input
+{
+    opacity: 70%;
+}
+#table
+{
+    
+    background-color: white;
+    margin: auto;
+
+}
+span
+{
+    color:red;
+}
+.main-box
+{
+    width:100%;
+}
+.three-a-row
+{
+    float:left;
+    display:table-column;
+    width:33%;
+}
+.btnGetCourse
+{
+    transform: translate(0px, -50px);
+}
